@@ -1,2 +1,5 @@
-# wiki
-https://wiki.wurmforge.com/
+# Wiki
+
+## Installation
+ - `pip install mkdocs`
+ - `pip install mkdocs-material`

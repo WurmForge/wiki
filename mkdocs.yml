@@ -1,0 +1,5 @@
+site_name: WurmForge Wiki
+repo_url: https://github.com/WurmForge/wiki
+
+theme:
+  name: material
