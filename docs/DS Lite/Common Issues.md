@@ -7,7 +7,6 @@ Having Left or Right trigger issues?
 
 ![](./images/triggers.jpg)
 
-
 Are they registering most the time? - If so they may just need to be cleaned, see [Cleaning Triggers](../cleaning-triggers)
 
 Nothing is registering or you have to push it very hard to get anything? If so they are likely worn beyond repair, and will need to be replaced. See [Replacing Triggers](../replacing-triggers)

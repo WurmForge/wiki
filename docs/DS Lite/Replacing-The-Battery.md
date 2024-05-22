@@ -4,7 +4,7 @@
 ## Step 1. Flip the DS Lite upside down, on the back.
 ![](./images/removing-the-battery/step1.jpg)
 
-## Step 2. Remove the screws
+## Step 2. Remove the screw
 ![](./images/removing-the-battery/step2.jpg)
 
 ## Step 3. Remove the battery cover
